@@ -1,9 +1,9 @@
 /* eslint-disable */
 export const PERSON = {
   name: {
-    first: 'John',
+    first: 'Euler',
     middle: '',
-    last: 'Doe',
+    last: 'Alves',
   },
   about: 'Hi, my name is John Doe. I\'m just about the most boring type of person you could possibly imagine. I like collecting leaves from the tree in my back yard and documenting each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.',
   position: 'Software Developer',
@@ -75,14 +75,14 @@ export const PERSON = {
       level: '99'
     }
   ],
-  skillDescription: 'Also proficient in Adobe Photoshop and Illustrator, grew up bilingual (English and Klingon).',
+  skillDescription: 'Vocational Training in Psychoanalysis.',
   contact: {
-    email: 'john.doe@email.com',
-    phone: '0123 456789',
+    email: 'euler(a)alves(.)pro(.)br',
+    phone: '',
     street: '1234 Broadway',
-    city: 'New York',
-    website: 'johndoe.com',
-    github: 'johnyD'
+    city: 'Vancouver',
+    website: 'alves.pro.br',
+    github: 'oilervoss'
   },
   lang: 'en' // en, de, fr, pt, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, nl, he, zh-tw, lt
 };
